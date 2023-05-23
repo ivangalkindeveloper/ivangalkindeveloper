@@ -15,32 +15,32 @@ Now i working on fintech projects and make additional packages that have a numbe
 ### Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=ivangalkindeveloper&show_icons=true&count_private=true&hide_border=true" />
 
-### Skills
+### Technologies
 <div class="image-row">
   <a href="https://www.figma.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
   </a>&nbsp;
   <a href="https://mui.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" />
   </a>&nbsp;
   <a href="https://www.mysql.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
   </a>&nbsp;
   <a href="https://github.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
   </a>&nbsp;
   <a href="https://www.javascript.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
   </a>&nbsp;
   <a href="https://dart.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" />
   </a>&nbsp;
   <a href="https://flutter.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />
   </a>
 </div>
 
-### Connect with me
+### Contact with me
 <div class="image-row">
   <a href="mailto:ivangalkindeveloper@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
@@ -56,5 +56,7 @@ Now i working on fintech projects and make additional packages that have a numbe
 <br>
 
 <div>
-  <a href="https://www.buymeacoffee.com/ivangalkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32px" width= "128px"></a>
+  <a href="https://www.buymeacoffee.com/ivangalkin" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32px" width= "128px">
+  </a>
 </div>
