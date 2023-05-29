@@ -1,16 +1,23 @@
 ## Hi 👋, my name is Ivan
 ### And i'm cross-platform and mobile developer
-
-### About me
+## About me
 I was radio systems engineer and worked in space corporation.\
 Gradually, I came to mobile cross-platform development.\
 Now i working on fintech projects and make additional packages that have a number of advantages and use them in my applications.
+## Currently
+At the moment I am working on money transfer, payment forms and crypto wallet  applications.
 
 ### Packages
 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component) - 📱 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.\
 [js_import](https://pub.dev/packages/js_import) - Importing JS sources into Flutter Web projects.\
 [ellipsized_text](https://pub.dev/packages/ellipsized_text) - ✏️ Ellipsized text with the ability to adjust the position of the ellipsis.\
 [phone_number_mask](https://pub.dev/packages/phone_number_mask) - ☎️ The package provides a simple parsing of phone numbers and various masking options.
+
+### Literature
+- Clean Architecture, Robert C. Martin;
+- Dart in action, Chris Bucket;
+- Practical Flutter, Frank Zammetti.
+
 
 ### Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=ivangalkindeveloper&show_icons=true&count_private=true&hide_border=true" />
