@@ -1,10 +1,11 @@
 ## Hi 👋, my name is Ivan
-### And i'm cross-platform and mobile developer
-## About me
+### I'm cross-platform and mobile developer
+### About me
 I was radio systems engineer and worked in space corporation.\
 Gradually, I came to mobile cross-platform development.\
 Now i working on fintech projects and make additional packages that have a number of advantages and use them in my applications.
-## Currently
+
+### Currently
 At the moment I am working on money transfer, payment forms and crypto wallet  applications.
 
 ### Packages
