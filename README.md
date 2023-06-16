@@ -1,9 +1,10 @@
-## Hi 👋, my name is Ivan
-### I'm cross-platform and mobile developer
+## Hello there 👋
+### My name is Ivan and i'm Dart & Flutter developer
+
 ### About me
-I was radio systems engineer and worked in space corporation.\
-Gradually, I came to mobile cross-platform development.\
-Now i working on fintech projects and make additional packages that have a number of advantages and use them in my applications.
+I was radio systems engineer and worked in rocket space corporation.\
+Gradually, I came to mobile and cross-platform development.\
+Now i working with fintech projects and make additional packages or straters that have a number of advantages and use them in my applications.
 
 ### Currently
 At the moment I am working on money transfer, payment forms and crypto wallet  applications.
@@ -23,7 +24,8 @@ It has a shell-script for completely changing the environment up to the icon, sp
 - Dart in action, Chris Bucket;
 - Practical Flutter, Frank Zammetti.
 
-### Stuff
+### Work stuff
+- Ikea IDÅSEN + Ikea ALEFJALL;
 - Apple Macbook Pro i7 2017 16Gb 512Gb;
 - Dell U4919DW;
 - Apple Magic Keyboard 2;
