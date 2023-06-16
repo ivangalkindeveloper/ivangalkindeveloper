@@ -8,7 +8,11 @@ Now i working on fintech projects and make additional packages that have a numbe
 ### Currently
 At the moment I am working on money transfer, payment forms and crypto wallet  applications.
 
-### Packages
+### Repositories
+#### Starters
+[multi_vendor_starter](https://github.com/ivangalkindeveloper/multi_vendor_starter) - Multivendor starter repo for new project.\
+It has a shell-script for completely changing the environment up to the icon, splash screen, and third-party service identifiers.
+#### Packages
 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component) - 📱 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.\
 [js_import](https://pub.dev/packages/js_import) - Importing JS sources into Flutter Web projects.\
 [ellipsized_text](https://pub.dev/packages/ellipsized_text) - ✏️ Ellipsized text with the ability to adjust the position of the ellipsis.\
@@ -19,6 +23,13 @@ At the moment I am working on money transfer, payment forms and crypto wallet  a
 - Dart in action, Chris Bucket;
 - Practical Flutter, Frank Zammetti.
 
+### Stuff
+- Apple Macbook Pro i7 2017 16Gb 512Gb;
+- Dell U4919DW;
+- Apple Magic Keyboard;
+- Logitech Lift;
+- iPhone 11 64Gb;
+- Xiaomi Mi Mix 2;
 
 ### Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=ivangalkindeveloper&show_icons=true&count_private=true&hide_border=true" />
