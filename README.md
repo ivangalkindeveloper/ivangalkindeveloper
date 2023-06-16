@@ -26,7 +26,7 @@ It has a shell-script for completely changing the environment up to the icon, sp
 ### Stuff
 - Apple Macbook Pro i7 2017 16Gb 512Gb;
 - Dell U4919DW;
-- Apple Magic Keyboard;
+- Apple Magic Keyboard 2;
 - Logitech Lift;
 - iPhone 11 64Gb;
 - Xiaomi Mi Mix 2;
