@@ -1,12 +1,10 @@
 ## Hello there 👋
-### My name is Ivan and i'm Dart & Flutter developer
+### My name is Ivan
+### I'm Dart & Flutter Software Engineer
 
 ### About me
-I was radio systems engineer and worked in rocket space corporation.\
-Gradually, I came to mobile and cross-platform development.\
-Now i working with fintech projects and make additional packages or straters that have a number of advantages and use them in my applications.
-
-### Currently
+Was radio systems engineer and worked in rocket space corporation.\
+Gradually, I came to mobile and cross-platform development and now i working with fintech projects and make additional packages or straters that have a number of advantages and use them in my applications.
 At the moment I am working on money transfer, payment forms and crypto wallet  applications.
 
 ### Repositories
@@ -32,9 +30,6 @@ It has a shell-script for completely changing the environment up to the icon, sp
 - Logitech Lift;
 - iPhone 11 64Gb;
 - Xiaomi Mi Mix 2;
-
-### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=ivangalkindeveloper&show_icons=true&count_private=true&hide_border=true" />
 
 ### Technologies
 <div class="image-row">
@@ -73,9 +68,7 @@ It has a shell-script for completely changing the environment up to the icon, sp
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
 <br>
-
 <div>
   <a href="https://www.buymeacoffee.com/ivangalkin" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32px" width= "128px">
