@@ -4,8 +4,8 @@
 
 ### About me
 Was radio systems engineer and worked in rocket space corporation.\
-Gradually, I came to mobile and cross-platform development and now i working with fintech projects and make additional packages or straters that have a number of advantages and use them in my applications.
-At the moment I am working on money transfer, payment forms and crypto wallet  applications.
+Gradually, I came to mobile and cross-platform development and now i working with fintech projects and make additional packages or straters that have a number of advantages and use them in my applications.\
+At the moment I am working on money transfer, payment forms and crypto wallet applications.
 
 ### Repositories
 #### Starters
