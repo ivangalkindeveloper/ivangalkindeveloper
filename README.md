@@ -24,7 +24,8 @@ It has a shell-script for completely changing the environment up to the icon, sp
 
 ### Work stuff
 - Ikea IDÅSEN + Ikea ALEFJALL;
-- Apple Macbook Pro i7 2017 16Gb 512Gb;
+- Apple Macbook Pro M2 (12c CPU, 19c GPU) 2023 16Gb RAM 512Gb SSD;
+- Apple Macbook Pro Intel i7 (7920HQ) 2017 16Gb RAM 512Gb SSD;
 - Dell U4919DW;
 - Apple Magic Keyboard 2;
 - Logitech Lift;
