@@ -22,6 +22,31 @@ It has a shell-script for completely changing the environment up to the icon, sp
 - Dart in action, Chris Bucket;
 - Practical Flutter, Frank Zammetti.
 
+### Technologies
+<div class="image-row">
+  <a href="https://www.figma.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" />
+  </a>&nbsp;
+  <a href="https://mui.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="60" />
+  </a>&nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />
+  </a>&nbsp;
+  <a href="https://github.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
+  </a>&nbsp;
+  <a href="https://www.javascript.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />
+  </a>&nbsp;
+  <a href="https://dart.dev/">
+    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="60" />
+  </a>&nbsp;
+  <a href="https://flutter.dev/">
+    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
+  </a>
+</div>
+
 ### Work stuff
 - Ikea IDÅSEN + Ikea ALEFJALL;
 - Apple Macbook Pro M2 (12c CPU, 19c GPU) 2023 16Gb RAM 512Gb SSD;
@@ -31,31 +56,6 @@ It has a shell-script for completely changing the environment up to the icon, sp
 - Logitech Lift;
 - iPhone 11 64Gb;
 - Xiaomi Mi Mix 2;
-
-### Technologies
-<div class="image-row">
-  <a href="https://www.figma.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
-  </a>&nbsp;
-  <a href="https://mui.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" />
-  </a>&nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
-  </a>&nbsp;
-  <a href="https://github.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-  </a>&nbsp;
-  <a href="https://www.javascript.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-  </a>&nbsp;
-  <a href="https://dart.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" />
-  </a>&nbsp;
-  <a href="https://flutter.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />
-  </a>
-</div>
 
 ### Contact with me
 <div class="image-row">
