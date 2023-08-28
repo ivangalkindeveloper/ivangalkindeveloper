@@ -15,17 +15,17 @@ It has a shell-script for completely changing the environment up to the icon, sp
 #### Packages
 - 📱 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component)\
 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.
-- [js_import](https://pub.dev/packages/js_import)\
-Importing JS sources into Flutter Web projects.
 - ✏️ [ellipsized_text](https://pub.dev/packages/ellipsized_text)\
 Ellipsized text with the ability to adjust the position of the ellipsis.
 - ☎️ [phone_number_mask](https://pub.dev/packages/phone_number_mask)\
 The package provides a simple parsing of phone numbers and various masking options.
+- [js_import](https://pub.dev/packages/js_import)\
+Importing JS sources into Flutter Web projects.
 
 ### Literature
 - Computer Science. Distilled., Wladston Ferreira Filho;
 - Clean Architecture, Robert C. Martin;
-- Dart in action, Chris Bucket;
+- Dart in Action, Chris Bucket;
 - Dart Fundamentals, Stanislav Chernyshev;
 - Practical Flutter, Frank Zammetti.
 
