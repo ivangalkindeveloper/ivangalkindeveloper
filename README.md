@@ -23,8 +23,10 @@ Ellipsized text with the ability to adjust the position of the ellipsis.
 The package provides a simple parsing of phone numbers and various masking options.
 
 ### Literature
+- Computer Science. Distilled., Wladston Ferreira Filho;
 - Clean Architecture, Robert C. Martin;
 - Dart in action, Chris Bucket;
+- Dart Fundamentals, Stanislav Chernyshev;
 - Practical Flutter, Frank Zammetti.
 
 ### Technologies
