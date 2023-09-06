@@ -23,11 +23,12 @@ The package provides a simple parsing of phone numbers and various masking optio
 Importing JS sources into Flutter Web projects.
 
 ### Literature
-- Computer Science. Distilled., Wladston Ferreira Filho;
-- Clean Architecture, Robert C. Martin;
-- Dart in Action, Chris Bucket;
-- Dart Fundamentals, Stanislav Chernyshev;
-- Practical Flutter, Frank Zammetti.
+- "Computer Science. Distilled.", Wladston Ferreira Filho;
+- "The Self-Taught Computer Scientist", Cory Althoff;
+- "Clean Architecture", Robert C. Martin;
+- "Dart in Action", Chris Bucket;
+- "Dart Fundamentals", Stanislav Chernyshev;
+- "Practical Flutter", Frank Zammetti.
 
 ### Technologies
 <div class="image-row">
