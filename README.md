@@ -23,7 +23,8 @@ The package provides a simple parsing of phone numbers and various masking optio
 Importing JS sources into Flutter Web projects.
 
 ### Literature
-- "Computer Science. Distilled.", Wladston Ferreira Filho;
+- "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho;
+- "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho & Moto Pictet;
 - "The Self-Taught Computer Scientist", Cory Althoff;
 - "Clean Architecture", Robert C. Martin;
 - "Dart in Action", Chris Bucket;
@@ -32,27 +33,27 @@ Importing JS sources into Flutter Web projects.
 
 ### Technologies
 <div class="image-row">
-  <a href="https://www.figma.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" />
-  </a>&nbsp;
-  <a href="https://mui.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="60" />
-  </a>&nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />
-  </a>&nbsp;
-  <a href="https://github.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
-  </a>&nbsp;
-  <a href="https://www.javascript.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />
-  </a>&nbsp;
   <a href="https://dart.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="60" />
+    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
   </a>&nbsp;
   <a href="https://flutter.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
+    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
   </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  </a>&nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  </a>&nbsp;
+  <a href="https://www.figma.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+  </a>&nbsp;
+  <a href="https://mui.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+  </a>&nbsp;
+  <a href="https://github.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>&nbsp;
 </div>
 
 ### Work stuff
