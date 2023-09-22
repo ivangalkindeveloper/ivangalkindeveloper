@@ -17,7 +17,7 @@ It has a shell-script for completely changing the environment up to the icon, sp
 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.
 - ✏️ [ellipsized_text](https://pub.dev/packages/ellipsized_text)\
 Ellipsized text with the ability to adjust the position of the ellipsis.
-- ☎️ [phone_number_mask](https://pub.dev/packages/phone_number_mask_parser)\
+- ☎️ [phone_number_mask_parser](https://pub.dev/packages/phone_number_mask_parser)\
 The package provides a simple parsing of phone numbers and various masking options.
 - [js_import](https://pub.dev/packages/js_import)\
 Importing JS sources into Flutter Web projects.
