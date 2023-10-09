@@ -26,7 +26,7 @@ Importing JS sources into Flutter Web projects.
 - "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho;
 - "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho & Moto Pictet;
 - "The Self-Taught Computer Scientist", Cory Althoff;
-- "Grokking algorithms", Aditya Bhargava;
+- "Grokking Algorithms", Aditya Bhargava;
 - "Clean Architecture", Robert C. Martin;
 - "Dart Fundamentals", Stanislav Chernyshev;
 - "Dart in Action", Chris Bucket;
