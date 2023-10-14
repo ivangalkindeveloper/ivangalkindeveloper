@@ -28,8 +28,9 @@ Importing JS sources into Flutter Web projects.
 - "The Self-Taught Computer Scientist", Cory Althoff;
 - "Grokking Algorithms", Aditya Bhargava;
 - "Clean Architecture", Robert C. Martin;
-- "Dart Fundamentals", Stanislav Chernyshev;
+- "SQL. Quickstart guide.", Walter Shields;
 - "Dart in Action", Chris Bucket;
+- "Dart Fundamentals", Stanislav Chernyshev;
 - "Quick start as a Flutter developer", Andrey Aleev;
 - "Practical Flutter", Frank Zammetti.
 
