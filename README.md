@@ -27,6 +27,7 @@ Importing JS sources into Flutter Web projects.
 - "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho & Moto Pictet;
 - "The Self-Taught Computer Scientist", Cory Althoff;
 - "Grokking Algorithms", Aditya Bhargava;
+- "The Algorithm Design Manual", Steven S. Skiena;
 - "Clean Architecture", Robert C. Martin;
 - "SQL. Quickstart guide.", Walter Shields;
 - "Dart in Action", Chris Bucket;
