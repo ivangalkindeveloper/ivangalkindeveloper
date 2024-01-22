@@ -23,13 +23,17 @@ The package provides a simple parsing of phone numbers and various masking optio
 Importing JS sources into Flutter Web projects.
 
 ### Literature
+Common:
 - "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho;
-- "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho & Moto Pictet;
+- "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho, Moto Pictet;
 - "The Self-Taught Computer Scientist", Cory Althoff;
 - "Grokking Algorithms", Aditya Bhargava;
 - "The Algorithm Design Manual", Steven S. Skiena;
 - "Clean Architecture", Robert C. Martin;
 - "SQL. Quickstart guide.", Walter Shields;
+- "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
+
+Dart & Flutter:
 - "Dart in Action", Chris Bucket;
 - "Dart Fundamentals", Stanislav Chernyshev;
 - "Quick start as a Flutter developer", Andrey Aleev;
