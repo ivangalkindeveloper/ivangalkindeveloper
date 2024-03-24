@@ -39,6 +39,9 @@ Dart & Flutter:
 - "Quick start as a Flutter developer", Andrey Aleev;
 - "Practical Flutter", Frank Zammetti.
 
+Swift:
+- "SWIFT. Basics of iOS & macOS app development", Vasiliy Usov.
+
 ### Technologies
 <div class="image-row">
   <a href="https://dart.dev/">
