@@ -15,6 +15,8 @@ It has a shell-script for completely changing the environment up to the icon, sp
 #### Packages
 - 📱 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component)\
 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.
+- [pedant](https://github.com/ivangalkindeveloper/pedant)\
+Static strict analyzer and linter, contains script for fixing errors and formatting Dart code.
 - ✏️ [ellipsized_text](https://pub.dev/packages/ellipsized_text)\
 Ellipsized text with the ability to adjust the position of the ellipsis.
 - ☎️ [phone_number_mask_parser](https://pub.dev/packages/phone_number_mask_parser)\
@@ -40,7 +42,8 @@ Dart & Flutter:
 - "Practical Flutter", Frank Zammetti.
 
 Swift:
-- "SWIFT. Basics of iOS & macOS app development", Vasiliy Usov.
+- "SWIFT. Basics of iOS & macOS app development", Vasiliy Usov;
+- "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy.
 
 ### Technologies
 <div class="image-row">
