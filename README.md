@@ -4,7 +4,7 @@
 
 ### About me
 Worked radio systems engineer in rocket space corporation.\
-Gradually, came to mobile and cross-platform development and working now with fintech, enterprise and app projects and make additional packages or straters that have a number of advantages and use them in my applications.\
+Gradually, came to mobile and cross-platform development and working now with fintech, enterprise and app projects and make additional packages or straters that have a number of advantages and use them in my applications.
 
 ### Repositories
 #### Starters
