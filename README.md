@@ -52,6 +52,9 @@ Swift:
   <a href="https://flutter.dev/">
     <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
   </a>
+  <a href="https://developer.apple.com/swift/">
+    <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Flutter" height="50" />
+  </a>
   <a href="https://www.javascript.com/">
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
   </a>&nbsp;
