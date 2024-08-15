@@ -15,7 +15,9 @@ It has a shell-script for completely changing the environment up to the icon, sp
 - 📱 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component)\
 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.
 - [pedant](https://github.com/ivangalkindeveloper/pedant)\
-Static strict analyzer and linter, contains script for fixing errors and formatting Dart code.
+Static strict analyzer and linter for Dart & Flutter, contains script for fixing errors, convert declarations and formatting code.
+- [dependency_initializer](https://github.com/ivangalkindeveloper/dependency_initializer)\
+Initializer utility of dependencies for Dart & Flutter projects.
 - ✏️ [ellipsized_text](https://pub.dev/packages/ellipsized_text)\
 Ellipsized text with the ability to adjust the position of the ellipsis.
 - ☎️ [phone_number_mask_parser](https://pub.dev/packages/phone_number_mask_parser)\
