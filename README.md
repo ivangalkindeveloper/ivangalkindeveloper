@@ -32,7 +32,8 @@ Common:
 - "The Algorithm Design Manual", Steven S. Skiena;
 - "Clean Architecture", Robert C. Martin;
 - "SQL. Quickstart guide.", Walter Shields;
-- "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
+- "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides;
+- "System Design Interview", Alex Xu.
 
 Dart & Flutter:
 - "Dart in Action", Chris Bucket;
