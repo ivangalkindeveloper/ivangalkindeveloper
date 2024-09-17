@@ -44,7 +44,8 @@ Dart & Flutter:
 - "Practical Flutter", Frank Zammetti.
 
 Swift:
-- "SWIFT. Basics of iOS & macOS app development", Vasiliy Usov;
+- "SWIFT. Basics of iOS & macOS app development.", Vasiliy Usov;
+- "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov;
 - "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy.
 
 ### Technologies
