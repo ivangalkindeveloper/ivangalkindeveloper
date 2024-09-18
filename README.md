@@ -26,7 +26,7 @@ The package provides a simple parsing of phone numbers and various masking optio
 Importing JS sources into Flutter Web projects.
 
 ### Literature
-Common:
+Computer Science & System Design $ Algorithms:
 - "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho;
 - "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho, Moto Pictet;
 - "The Self-Taught Computer Scientist", Cory Althoff;
@@ -43,7 +43,7 @@ Dart & Flutter:
 - "Quick start as a Flutter developer", Andrey Aleev;
 - "Practical Flutter", Frank Zammetti.
 
-Swift:
+Swift & UIKit & SwiftUI:
 - "SWIFT. Basics of iOS & macOS app development.", Vasiliy Usov;
 - "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov;
 - "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy.
