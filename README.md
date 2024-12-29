@@ -1,6 +1,6 @@
 ## Hello there 👋
 ### My name is Ivan
-### I'm Dart & Flutter Software Engineer
+### I'm Mobile Software Engineer
 
 ### About me
 Worked radio systems engineer in rocket space corporation.\
