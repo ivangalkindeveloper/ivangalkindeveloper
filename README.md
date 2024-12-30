@@ -13,7 +13,7 @@ Gradually, came to mobile and cross-platform development and working now with fi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/ivangalkindeveloper/content/refs/heads/main/swift-ui.svg?token=GHSAT0AAAAAACMHYZUUCUDJ6YJNISL5ZVLUZ3S5UNQ" height="42" />
+  <img src="https://raw.githubusercontent.com/ivangalkindeveloper/content/refs/heads/main/swift-ui.svg" height="42" />
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" />
