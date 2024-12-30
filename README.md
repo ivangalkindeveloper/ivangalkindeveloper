@@ -2,16 +2,44 @@
 ### My name is Ivan
 ### I'm Mobile Software Engineer
 
-### About me
 Worked radio systems engineer in rocket space corporation.\
 Gradually, came to mobile and cross-platform development and working now with fintech, enterprise and app projects and make additional packages or straters that have a number of advantages and use them in my applications.
 
-### Repositories
-#### Starters
+#
+<div class="image-row">
+  <a href="https://dart.dev/">
+    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
+  </a>&nbsp;
+  <a href="https://flutter.dev/">
+    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+  </a>
+  <a href="https://developer.apple.com/swift/">
+    <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Flutter" height="50" />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  </a>&nbsp;
+  <a href="https://github.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+  </a>  
+  <a href="https://www.mysql.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  </a>&nbsp;
+  <a href="https://www.figma.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+  </a>&nbsp;
+  <a href="https://mui.com/">
+    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+  </a>&nbsp;
+</div>
+
+#
 - 👾 [multivendor_clean_architecture_starter](https://github.com/ivangalkindeveloper/multivendor_clean_architecture_starter)\
 Multivendor starter and example for new Flutter project based on Clean Architecture.\
 It has a shell-script for completely changing the environment up to the icon, splash screen, and third-party services.
-#### Packages
 - 📱 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component)\
 Ready-made component base using ready-made abstractions for quick use and decomposed by platform.
 - [pedant](https://github.com/ivangalkindeveloper/pedant)\
@@ -47,34 +75,6 @@ Swift & UIKit & SwiftUI:
 - "SWIFT. Basics of iOS & macOS app development.", Vasiliy Usov;
 - "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov;
 - "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy.
-
-### Technologies
-<div class="image-row">
-  <a href="https://dart.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
-  </a>&nbsp;
-  <a href="https://flutter.dev/">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-  </a>
-  <a href="https://developer.apple.com/swift/">
-    <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Flutter" height="50" />
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>&nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  </a>&nbsp;
-  <a href="https://www.figma.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-  </a>&nbsp;
-  <a href="https://mui.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
-  </a>&nbsp;
-  <a href="https://github.com/">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>&nbsp;
-</div>
 
 ### Work stuff
 - Ikea IDÅSEN + Ikea ALEFJALL;
