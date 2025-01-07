@@ -60,37 +60,37 @@ The package provides a simple parsing of phone numbers and various masking optio
 Importing JS sources into Flutter Web projects.
 
 ### Literature
-Computer Science & System Design $ Algorithms:
-- "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho;
-- "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho, Moto Pictet;
-- "The Self-Taught Computer Scientist", Cory Althoff;
-- "Grokking Algorithms", Aditya Bhargava;
-- "The Algorithm Design Manual", Steven S. Skiena;
-- "Clean Architecture", Robert C. Martin;
-- "SQL. Quickstart guide.", Walter Shields;
-- "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides;
-- "System Design Interview", Alex Xu.
+Computer Science & System Design $ Algorithms
+- "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho
+- "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho, Moto Pictet
+- "The Self-Taught Computer Scientist", Cory Althoff
+- "Grokking Algorithms", Aditya Bhargava
+- "The Algorithm Design Manual", Steven S. Skiena
+- "Clean Architecture", Robert C. Martin
+- "SQL. Quickstart guide.", Walter Shields
+- "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+- "System Design Interview", Alex Xu
 
-Dart & Flutter:
-- "Dart in Action", Chris Bucket;
-- "Dart Fundamentals", Stanislav Chernyshev;
-- "Quick start as a Flutter developer", Andrey Aleev;
-- "Practical Flutter", Frank Zammetti.
+Dart & Flutter
+- "Dart in Action", Chris Bucket
+- "Dart Fundamentals", Stanislav Chernyshev
+- "Quick start as a Flutter developer", Andrey Aleev
+- "Practical Flutter", Frank Zammetti
 
-Swift & UIKit & SwiftUI:
-- "SWIFT. Basics of iOS & macOS app development.", Vasiliy Usov;
-- "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov;
-- "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy.
+Swift & UIKit & SwiftUI
+- "SWIFT. Basics of iOS & macOS app development.", Vasiliy Usov
+- "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov
+- "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy
 
 ### Work stuff
-- Ikea IDÅSEN + Ikea ALEFJALL;
-- Apple Macbook Pro M2 (12c CPU, 19c GPU) 2023 16Gb RAM 512Gb SSD;
-- Apple Macbook Pro Intel i7 (7920HQ) 2017 16Gb RAM 512Gb SSD;
-- Dell U4919DW;
-- Apple Magic Keyboard 2;
-- Logitech Lift;
-- iPhone 11 64Gb;
-- Xiaomi Mi Mix 2;
+- Ikea IDÅSEN + Ikea ALEFJALL
+- Apple Macbook Pro M2 (12c CPU, 19c GPU) 2023 16Gb RAM 512Gb SSD
+- Apple Macbook Pro Intel i7 (7920HQ) 2017 16Gb RAM 512Gb SSD
+- Dell U4919DW
+- Apple Magic Keyboard 2
+- Logitech Lift
+- iPhone 11 64Gb
+- Xiaomi Mi Mix 2
 
 ### Contact with me
 <div class="image-row">
@@ -110,6 +110,3 @@ Swift & UIKit & SwiftUI:
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32px" width= "128px">
   </a>
 </div>
-
-
-
