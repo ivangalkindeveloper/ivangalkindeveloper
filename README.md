@@ -20,6 +20,8 @@ Gradually, came to mobile and cross-platform development and working now with fi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="42" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/ivangalkindeveloper/content/refs/heads/main/app-code.svg" height="42" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" />
 </div>
 <div align="left">
