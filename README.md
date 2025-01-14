@@ -62,7 +62,7 @@ The package provides a simple parsing of phone numbers and various masking optio
 Importing JS sources into Flutter Web projects.
 
 ### Literature
-Computer Science & System Design $ Algorithms
+Computer Science & System Design & Algorithms
 - "Computer Science. Distilled. Learn the art of solving computational problems.", Wladston Ferreira Filho
 - "Computer Science. Unleashed. Harness the power of computational systems.", Wladston Ferreira Filho, Moto Pictet
 - "The Self-Taught Computer Scientist", Cory Althoff
