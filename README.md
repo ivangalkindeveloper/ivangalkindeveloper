@@ -74,7 +74,7 @@ Computer Science & System Design & Algorithms
 - "System Design Interview", Alex Xu
 
 Git
-- "Git tips and tricks.", Brent Laster, Rajeev Bera, Seth Kenlon, Olaf Alders, Ramakrishna Pattnaik, Agil Antony, Noaa Barki
+- "Git tips and tricks", Brent Laster, Rajeev Bera, Seth Kenlon, Olaf Alders, Ramakrishna Pattnaik, Agil Antony, Noaa Barki
 
 Dart & Flutter
 - "Dart in Action", Chris Bucket
