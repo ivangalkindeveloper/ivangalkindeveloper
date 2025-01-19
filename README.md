@@ -73,6 +73,9 @@ Computer Science & System Design & Algorithms
 - "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - "System Design Interview", Alex Xu
 
+Git
+- "Git tips and tricks.", Brent Laster, Rajeev Bera, Seth Kenlon, Olaf Alders, Ramakrishna Pattnaik, Agil Antony, Noaa Barki
+
 Dart & Flutter
 - "Dart in Action", Chris Bucket
 - "Dart Fundamentals", Stanislav Chernyshev
