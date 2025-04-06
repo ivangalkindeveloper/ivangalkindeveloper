@@ -90,6 +90,9 @@ Swift & UIKit & SwiftUI
 - "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov
 - "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy
 
+Management and Leadership
+- "Herding cats: A Primer for Programmers Who Lead Programmers", J. Hank Rainwater
+
 ### Work stuff
 - Ikea IDÅSEN + Ikea ALEFJALL
 - Apple Macbook Pro M2 (12c CPU, 19c GPU) 2023 16Gb RAM 512Gb SSD
