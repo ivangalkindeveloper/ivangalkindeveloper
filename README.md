@@ -87,8 +87,9 @@ Dart & Flutter
 
 Swift & UIKit & SwiftUI
 - "SWIFT. Basics of iOS & macOS app development.", Vasiliy Usov
-- "SWIFT. Developing iOS applications based on the UIKit framework", Vasiliy Usov
+- "SWIFT. Developing iOS applications based on the UIKit framework.", Vasiliy Usov
 - "Development of applications on Swift and SwiftUI from scratch", Alexander Kazanskiy
+- "Swift. Notes for Professionals.", GoalKicker.com
 
 Management and Leadership
 - "Herding cats: A Primer for Programmers Who Lead Programmers", J. Hank Rainwater
