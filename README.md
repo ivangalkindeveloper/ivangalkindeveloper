@@ -45,23 +45,6 @@ Gradually, came to mobile and cross-platform development and working now with fi
 </div>
 
 #
-- [pedant](https://github.com/ivangalkindeveloper/pedant)\
-Static strict analyzer and linter for Dart & Flutter, contains script for fixing errors, convert declarations and formatting code.
-- [dependency_initializer](https://github.com/ivangalkindeveloper/dependency_initializer)\
-Initializer utility of dependencies for Dart & Flutter projects.
-- 👾 [multivendor_clean_architecture_starter](https://github.com/ivangalkindeveloper/multivendor_clean_architecture_starter)\
-Multivendor starter and example for new Flutter project based on Clean Architecture.\
-It has a shell-script for completely changing the environment up to the icon, splash screen, and third-party services.
-- 📱 [flutter_platform_component](https://pub.dev/packages/flutter_platform_component)\
-Ready-made component base using ready-made abstractions for quick use and decomposed by platform.
-- [screen_corner_radius](https://github.com/ivangalkindeveloper/screen_corner_radius)\
-Plugin provides corner radius value of current device screen. Works for iOS and Android.
-- ✏️ [ellipsized_text](https://pub.dev/packages/ellipsized_text)\
-Ellipsized text with the ability to adjust the position of the ellipsis.
-- ☎️ [phone_number_mask_parser](https://pub.dev/packages/phone_number_mask_parser)\
-The package provides a simple parsing of phone numbers and various masking options.
-- [js_import](https://pub.dev/packages/js_import)\
-Importing JS sources into Flutter Web projects.
 
 ### Literature
 Computer Science & System Design & Algorithms
@@ -78,6 +61,9 @@ Computer Science & System Design & Algorithms
 
 Git
 - "Git tips and tricks", Brent Laster, Rajeev Bera, Seth Kenlon, Olaf Alders, Ramakrishna Pattnaik, Agil Antony, Noaa Barki
+
+Mobile
+- "Native Mobile Development. A Cross-Reference for iOS and Android.", Shaun Lewis, Mike Dunn
 
 Dart & Flutter
 - "Dart in Action", Chris Bucket
