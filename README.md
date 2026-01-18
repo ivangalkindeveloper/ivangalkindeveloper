@@ -1,10 +1,3 @@
-## Hello there 👋
-### My name is Ivan
-### I'm Mobile Software Engineer
-
-Worked radio systems engineer in rocket space corporation.\
-Gradually, came to mobile and cross-platform development and working now with fintech, enterprise and app projects and make additional packages or straters that have a number of advantages and use them in my applications.
-
 #
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" />
@@ -58,8 +51,6 @@ Computer Science & System Design & Algorithms
 - "Design Patterns. Elements of Reusable Object-Oriented Software.", Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - "System Design Interview", Alex Xu
 - "Grokking Concurrency", Kirill Bobrov
-
-Git
 - "Git tips and tricks", Brent Laster, Rajeev Bera, Seth Kenlon, Olaf Alders, Ramakrishna Pattnaik, Agil Antony, Noaa Barki
 
 Mobile
@@ -80,17 +71,7 @@ Swift & UIKit & SwiftUI
 Management and Leadership
 - "Herding cats: A Primer for Programmers Who Lead Programmers", J. Hank Rainwater
 
-### Work stuff
-- Ikea IDÅSEN + Ikea ALEFJALL
-- Apple Macbook Pro M2 (12c CPU, 19c GPU) 2023 16Gb RAM 512Gb SSD
-- Apple Macbook Pro Intel i7 (7920HQ) 2017 16Gb RAM 512Gb SSD
-- Dell U4919DW
-- Apple Magic Keyboard 2
-- Logitech Lift
-- iPhone 11 64Gb
-- Xiaomi Mi Mix 2
-
-### Contact with me
+### Contacts
 <div class="image-row">
   <a href="mailto:ivangalkindeveloper@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
