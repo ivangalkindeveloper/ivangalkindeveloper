@@ -80,9 +80,3 @@ Management and Leadership
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<br>
-<div>
-  <a href="https://www.buymeacoffee.com/ivangalkin" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32px" width= "128px">
-  </a>
-</div>
