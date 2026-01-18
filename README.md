@@ -1,4 +1,3 @@
-#
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" />
   <img width="12" />
@@ -36,8 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="42" />
 </div>
-
-#
 
 ### Literature
 Computer Science & System Design & Algorithms
